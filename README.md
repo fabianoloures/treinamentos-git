@@ -1,4 +1,4 @@
-#Repositório para curso de GIT/GITHUB - DIO
+#Repositório criado para curso de GIT/GITHUB - DIO
 #treinamentos-git
 
 ## links utéis
